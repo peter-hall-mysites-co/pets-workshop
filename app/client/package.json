@@ -14,10 +14,10 @@
     "test:e2e:chromium": "playwright test --project=chromium"
   },
   "dependencies": {
-    "@astrojs/node": "^11.1.7",
+    "@astrojs/node": "^11.1.8",
     "@tailwindcss/vite": "^4.2.2",
     "astro": "^6.1.6",
-    "esbuild-wasm": "^0.28.0",
+    "esbuild-wasm": "^0.28.2",
     "typescript": "^7.0.2"
   },
   "devDependencies": {
